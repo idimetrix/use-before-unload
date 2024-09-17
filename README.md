@@ -1,4 +1,4 @@
-# use-before-unload
+# use-before-unload3
 React side-effect hook that shows browser alert when user try to reload or close the page.
 
 ## Installation
@@ -6,17 +6,17 @@ React side-effect hook that shows browser alert when user try to reload or close
 To install the package, use npm:
 
 ```bash
-pnpm add use-before-unload
+pnpm add use-before-unload3
 
-yarn install use-before-unload
+yarn install use-before-unload3
 
-npm install use-before-unload
+npm install use-before-unload3
 ```
 
 ## Usage
 
 ```typescript
-import { useBeforeUnload } from 'use-before-unload';
+import { useBeforeUnload } from 'use-before-unload3';
 
 useBeforeUnload('Message');
 ```
@@ -61,4 +61,4 @@ $ npm publish
 
 
 ## test package
-https://www.npmjs.com/package/use-before-unload
+https://www.npmjs.com/package/use-before-unload3
